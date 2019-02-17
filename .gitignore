@@ -1,0 +1,12 @@
+.vscode
+
+.flaskenv
+venv
+
+__pycache__/
+
+# Python
+*.py[cod]
+*$py.class
+
+
